@@ -12,7 +12,7 @@ on:
           - rofik
           - timelm
           - nethunter
-          
+          - crDroid
       script:
         description: 'Select Build Script'
         required: true
